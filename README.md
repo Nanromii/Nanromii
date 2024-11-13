@@ -1,7 +1,7 @@
 # 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]([https://facebook.com/your-profile](https://www.facebook.com/vnqnaamm/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=pink)]([https://instagram.com/your-profile](https://www.instagram.com/_vnqnaamm/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)]([https://leetcode.com/your-profile](https://leetcode.com/u/_vnqnammm/))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/vnqnaamm/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=pink)](https://www.instagram.com/_vnqnaamm/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/_vnqnammm/)
 
 ## 🖥️ Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
