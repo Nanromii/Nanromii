@@ -15,8 +15,8 @@
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanromii&theme=dark" height="200"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanromii&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanromii&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
 </div>
 
 
