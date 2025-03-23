@@ -13,10 +13,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### 📊 GitHub Contributions
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanromii&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nanromii&show_icons=true&theme=dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark" height="200"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&langs_count=6&theme=dark)
+
 
 
 --The prenjudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it--
