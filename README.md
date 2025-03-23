@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanromii&theme=dark&layout=compact" height="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanromii&theme=dark&hide_border=false" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark" height="200"/>
 </div>
 
