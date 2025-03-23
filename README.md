@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&langs_count=6&layout=compact&exclude_repo=qnam-studyspring)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&langs_count=6&layout=compact&exclude_repo=qnam-studyspring,CTDL)
 
 
 
