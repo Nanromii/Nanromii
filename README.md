@@ -13,6 +13,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+### 📊 GitHub Contributions
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Nanromii&theme=github-dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&langs_count=6&theme=dark)
 
 
