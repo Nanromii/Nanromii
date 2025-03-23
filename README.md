@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### 📊 GitHub Contributions
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Nanromii&theme=github-dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanromii&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&langs_count=6&theme=dark)
 
