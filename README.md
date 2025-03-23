@@ -12,7 +12,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&langs_count=6&theme=dark&token=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)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&langs_count=6&theme=dark)
 
 
 --The prenjudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it--
