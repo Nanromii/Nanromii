@@ -19,8 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
 </div>
 
-
-
-
+![Snake animation](https://raw.githubusercontent.com/Nanromii/Nanromii/output/github-contribution-grid-snake.svg)
 
 --The prenjudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it--
