@@ -19,23 +19,23 @@ jobs:
 
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
-        uses: Platane/snk@v0.0.10
+        uses: Platane/snk@master
         with:
           github_user_name: Nanromii
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: debug directory
+      - name: debug directory contents
         run: |
-          pwd
+          echo "Current directory: $(pwd)"
           ls -la
-          ls -la dist || echo "dist is empty or not created"
+          ls -la dist || echo "dist directory is empty or not created"
 
       - name: ensure the generated file exists
         run: |
           ls dist
-          test -f dist/github-contribution-grid-snake.svg
-          test -f dist/github-contribution-grid-snake.gif
+          test -f dist/github-contribution-grid-snake.svg || echo "SVG file not found"
+          test -f dist/github-contribution-grid-snake.gif || echo "GIF file not found"
 
       - uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
