@@ -11,22 +11,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: create dist directory
+        run: mkdir -p dist
+
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
-        uses: Platane/snk@v0.0.10  # Dùng phiên bản cụ thể thay vì @master để ổn định hơn
+        uses: Platane/snk@v0.0.10
         with:
           github_user_name: Nanromii
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      - name: ensure the generated file exists
-        run: |
-          ls dist
-          test -f dist/github-contribution-grid-snake.svg
-          test -f dist/github-contribution-grid-snake-dark.svg
-          test -f dist/github-contribution-grid-snake.gif
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
