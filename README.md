@@ -13,11 +13,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nanromii&theme=dark" height="199"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nanromii&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
 
 ![snake gif](https://github.com/Nanromii/Nanromii/blob/output/github-contribution-grid-snake.gif)
 
