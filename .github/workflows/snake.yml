@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: clean dist directory
+        run: rm -rf dist
+
       - name: create dist directory
         run: mkdir -p dist
 
@@ -21,6 +24,18 @@ jobs:
           github_user_name: Nanromii
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: debug directory
+        run: |
+          pwd
+          ls -la
+          ls -la dist || echo "dist is empty or not created"
+
+      - name: ensure the generated file exists
+        run: |
+          ls dist
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid-snake.gif
 
       - uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
