@@ -13,8 +13,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
-
 ![snake gif](https://github.com/Nanromii/Nanromii/blob/output/github-snake-dark.svg)
 
---The prenjudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
+
+<div align="center">
+  <em>--The prejudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it--</em>
+</div>
