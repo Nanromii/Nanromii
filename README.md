@@ -4,7 +4,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/_vnqnammm/)
 
 ## 🖥️ Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8800.svg?style=for-the-badge?logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -15,6 +15,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
 
-![snake gif](https://github.com/Nanromii/Nanromii/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Nanromii/Nanromii/blob/output/github-snake-dark.svg)
 
 --The prenjudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it--
