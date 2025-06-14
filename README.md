@@ -18,5 +18,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
 
 <div align="center">
-  <em>--The prejudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it--</em>
+  <em>-The prejudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it-</em>
 </div>
