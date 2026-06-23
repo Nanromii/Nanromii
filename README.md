@@ -1,6 +1,5 @@
 # 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/vnqnaamm/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=pink)](https://www.instagram.com/_vnqnaamm/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/_vnqnammm/)
 
 ## 🖥️ Tech Stack
