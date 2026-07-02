@@ -27,10 +27,13 @@
 ### 🔄 Messaging & Event Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-![snake gif](https://github.com/Nanromii/Nanromii/blob/output/github-snake-dark.svg)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanromii&layout=compact&theme=dark&hide_border=true" height="180"/>
+<p align="center">
+  <img
+    src="https://github.com/Nanromii/Nanromii/blob/output/github-snake-dark.svg"
+    alt="Contribution Snake"
+  />
+</p>
 
 <div align="center">
-  <em>-The prejudice in one's heart is like a towering mountain, no matter how hard you try, you will never be able to move it-</em>
+  <em>"Ngộ sự bất quyết, khả vấn xuân phong, xuân phong bất ngữ, tức tùy bản tâm."</em>
 </div>
