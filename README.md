@@ -1,5 +1,23 @@
-## 🖥️ Tech Stack
+<div align="center">
 
+# Hi, I'm Vu Nguyen Quang Nam 👋
+
+🎓 Student at **HUS**  
+💼 Intern at **VNPT Cyber Immunity**
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=900&color=66CCFF&center=true&vCenter=true&width=420&lines=Developer;C%E1%BA%ADn;L%C3%B9n;%C4%90%E1%BB%A5t;Tr%C4%A9"
+  alt="Typing SVG"
+/>
+
+</div>
+
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      
+## 🖥️ Tech Stack
+      
 ### 🧠 Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -22,6 +40,21 @@
 
 ### 🔄 Messaging & Event Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+  </td>
+    <td width="35%" align="center" valign="middle">
+  <img src="SaveTik.io_7379643315676777735.gif" width="530" alt="coding gif" />
+
+  <br />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=CC99FF&center=true&vCenter=true&width=300&lines=YuJimin;Karina;KatarinaYu;Katarinabluu;Karinu;Karomi;Karichim"
+    alt="Typing SVG"
+  />
+</td>
+  </tr>
+</table>
 
 <p align="center">
   <img
