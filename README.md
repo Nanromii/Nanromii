@@ -1,7 +1,3 @@
-# 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/vnqnaamm/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/_vnqnammm/)
-
 ## 🖥️ Tech Stack
 
 ### 🧠 Languages & Frameworks
