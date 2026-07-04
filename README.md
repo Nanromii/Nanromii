@@ -49,7 +49,7 @@
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=CC99FF&center=true&vCenter=true&width=300&lines=YuJimin;Karina;KatarinaYu;Katarinabluu;Karinu;Karomi;Karichim"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=500&color=CC99FF&center=true&vCenter=true&width=300&lines=YuJimin;Karina;KatarinaYu;Katarinabluu;Karinu;Karomi;Karichim"
     alt="Typing SVG"
   />
 </td>
