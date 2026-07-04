@@ -6,7 +6,7 @@
 💼 Intern at **VNPT Cyber Immunity**
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=900&color=66CCFF&center=true&vCenter=true&width=420&lines=Developer;C%E1%BA%ADn;L%C3%B9n;%C4%90%E1%BB%A5t;Tr%C4%A9"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=500&color=66CCFF&center=true&vCenter=true&width=420&lines=Developer;C%E1%BA%ADn;L%C3%B9n;%C4%90%E1%BB%A5t;Tr%C4%A9"
   alt="Typing SVG"
 />
 
@@ -49,7 +49,7 @@
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=CC99FF&center=true&vCenter=true&width=300&lines=YuJimin;Karina;KatarinaYu;Katarinabluu;Karinu;Karomi;Karichim"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=CC99FF&center=true&vCenter=true&width=300&lines=YuJimin;Karina;KatarinaYu;Katarinabluu;Karinu;Karomi;Karichim"
     alt="Typing SVG"
   />
 </td>
