@@ -2,8 +2,7 @@
 
 # Hi, I'm Vu Nguyen Quang Nam 👋
 
-🎓 Student at **HUS**  
-💼 Intern at **VNPT Cyber Immunity**
+🎓 Student at **HUS**
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=500&color=66CCFF&center=true&vCenter=true&width=420&lines=Developer;C%E1%BA%ADn;L%C3%B9n;%C4%90%E1%BB%A5t;Tr%C4%A9"
@@ -21,8 +20,6 @@
 ### 🧠 Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🗄️ Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
